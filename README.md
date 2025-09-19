@@ -1,2 +1,11 @@
-# junior_fullstack_test
-Direktori ini berisikan hasil pengerjaan test untuk menjadi junior fullstack.
+## 🛠️ Tech Stack
+### Backend
+- [Laravel](https://laravel.com/) 11.x
+- MySQL 
+- JWT Authentication
+- REST API
+
+### Frontend
+- Android (Kotlin)
+- MVVM Architecture
+- Retrofit (HTTP Client)
