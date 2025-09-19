@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">anemone app</string>
+    <string-array name="status_siswa">
+        <item>aktif</item>
+        <item>non-aktif</item>
+    </string-array>
+
+</resources>
